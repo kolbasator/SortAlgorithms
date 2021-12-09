@@ -1,0 +1,9 @@
+C:\Users\777\Desktop\Projects\Algorithms\SortAlgorithms\SortAlgorithms\obj\Debug\netcoreapp3.1\SortAlgorithms.csprojAssemblyReference.cache
+C:\Users\777\Desktop\Projects\Algorithms\SortAlgorithms\SortAlgorithms\obj\Debug\netcoreapp3.1\SortAlgorithms.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\Projects\Algorithms\SortAlgorithms\SortAlgorithms\obj\Debug\netcoreapp3.1\SortAlgorithms.AssemblyInfo.cs
+C:\Users\777\Desktop\Projects\Algorithms\SortAlgorithms\SortAlgorithms\obj\Debug\netcoreapp3.1\SortAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\Projects\Algorithms\SortAlgorithms\SortAlgorithms\bin\Debug\netcoreapp3.1\SortAlgorithms.deps.json
+C:\Users\777\Desktop\Projects\Algorithms\SortAlgorithms\SortAlgorithms\bin\Debug\netcoreapp3.1\SortAlgorithms.dll
+C:\Users\777\Desktop\Projects\Algorithms\SortAlgorithms\SortAlgorithms\bin\Debug\netcoreapp3.1\SortAlgorithms.pdb
+C:\Users\777\Desktop\Projects\Algorithms\SortAlgorithms\SortAlgorithms\obj\Debug\netcoreapp3.1\SortAlgorithms.dll
+C:\Users\777\Desktop\Projects\Algorithms\SortAlgorithms\SortAlgorithms\obj\Debug\netcoreapp3.1\SortAlgorithms.pdb
